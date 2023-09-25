@@ -20,6 +20,7 @@ Si quieres leer el libro en chino, @xieliaing fue tan amable de hacer una traduc
 
 También, algunas personas muy amables (@vietecon, @dinhtrang24 and @anhpham52) trabajaron en una traducción al vietnamí:
 
+Also, some really kind folks (@vietecon, @dinhtrang24 and @anhpham52) also translated this content into Vietnamese:  
 [Nhân quả Python](https://github.com/vietecon/NhanQuaPython)
 
 Me gusta pensar que esta serie completa es un tributo a Joshua Angrist, Alberto Abadie y Christopher Walters por su increíble clase de Econometría. Muchas de las ideas aquí presentadas son de sus clases en la Asociación Económica Americana (_American Economic Association_). Verlos es lo que me mantiene cuerdo durante este difícil año de 2020.

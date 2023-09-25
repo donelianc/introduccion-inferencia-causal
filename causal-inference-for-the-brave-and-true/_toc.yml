@@ -29,12 +29,14 @@ parts:
   - file: 22-Debiased-Orthogonal-Machine-Learning.ipynb
   - file: 23-Challenges-with-Effect-Heterogeneity-and-Nonlinearity.ipynb
   - file: 24-The-Diff-in-Diff-Saga.ipynb
+  - file: 25-Synthetic-Diff-in-Diff.ipynb
 - caption: Appendix
   chapters:
   - file: Debiasing-with-Orthogonalization.ipynb
   - file: Debiasing-with-Propensity-Score.ipynb
   - file: When-Prediction-Fails.ipynb
   - file: Prediction-Metrics-For-Causal-Models.ipynb
+  - file: Conformal-Inference-for-Synthetic-Control.ipynb
 - caption: Contribute
   chapters:
   - url: https://www.patreon.com/causal_inference_for_the_brave_and_true
